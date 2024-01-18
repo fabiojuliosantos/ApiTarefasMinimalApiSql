@@ -10,7 +10,6 @@ Todos os recursos necessários ficam presentes na classe Program.cs como classes
 - .Net 7;
 - Dapper;
 - SQL Server (ou outro banco de preferência)
-- Swagger
 
 #### Rotas do projeto:
 
